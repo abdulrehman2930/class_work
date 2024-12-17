@@ -1,0 +1,21 @@
+h1{
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    background-color: bisque;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding-bottom: 70px;
+    padding-right: 40px;
+    padding: 100px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
